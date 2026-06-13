@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Nikolai 👋
 
-<!--
-**nickonai/nickonai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product-minded engineer and founder. I build AI automation for education, content, and online-course businesses.
 
-Here are some ideas to get you started:
+I founded an AI education platform that pairs AI tutors with courses and an internal order marketplace. I'm a hands-on builder — most of what ships, I prototype and code myself: Telegram bots, conversational agents, and agentic content pipelines on top of OpenAI, Gemini, and Claude.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech I work with
+
+Languages    Python · TypeScript/JavaScript · Node.js
+Web          Next.js · React · Vercel
+AI / LLM     OpenAI · Google Gemini · Anthropic Claude · Claude Code / Agents
+Bots         Telegram Bot API
+Infra        Docker · GitHub Actions · Cloudflare · S3
